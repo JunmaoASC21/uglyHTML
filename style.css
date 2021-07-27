@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+h1{
+    color:rgba(255, 238, 0, 0.925);
+    background-color: rgba(81, 81, 245, 0.712);
+    text-align: center;
+    font-family: 'Courier New';
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h2{
+    margin-left: 6px;
+    margin-right: 5px;
+    color:white;
+    font-family: Courier ;
+    font-size:small;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    padding-left: 2.5px;
+    padding-right: 2.2px;
+    border:2.5px solid rgb(5, 55, 148);
+
+
+}
+
+.pokemon_images{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    border: black;
+}
+
+ul{
+    list-style-type:square;
+    color:white;
+    font-family: Verdana;
+    font-size:small;
+}
+
+#bulbasaur_container{
+    background-color: rgba(100, 248, 100, 0.781);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(178, 228, 79);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#charmander_container{
+    background-color: rgba(247, 182, 63, 0.925);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(178, 228, 79);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#squirtle_container{
+    background-color: rgba(142, 250, 227, 0.76);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(178, 228, 79);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.pokemon_names{
+    margin-left: 5px;
+    color:white;
+    font-family: Courier;
+    font-size:15px;
+}
+
+
+p{
+    margin-left: 5px;
+    color:white;
+    font-family: Verdana;
+    font-size:11px;
+}
+
+footer{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    color:white;
+    font-size: 10px;
+}
